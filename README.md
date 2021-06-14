@@ -1,6 +1,6 @@
 # cs50-pset9-finance
 
-## Another fun and exciting project, this time a full-stack web app with Bootstrap UI, Flask back-end, and SQLite3 database.
+## Another fun and exciting project: I built a full-stack web app with Bootstrap UI, Flask back-end, and SQLite3 database.
 
 # DEMO
 ![image](https://user-images.githubusercontent.com/58123635/121849668-9eca3480-ccb9-11eb-9b1a-4f1040cd3b6e.png)
