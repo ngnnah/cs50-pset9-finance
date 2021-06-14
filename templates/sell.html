@@ -1,0 +1,27 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Sell Stock
+{% endblock %}
+
+{% block main %}
+    <form action="/sell" method="post">
+        <div class="form-group">
+            <select required name="symbol" class="form-select form-control" aria-label="Default select">
+              <option value=""> Available stocks </option>
+
+              {% for symbol in owns %}
+              <option value={{symbol}}> {{symbol}} </option>
+              {% endfor %}
+            </select>
+            <input required class="form-control" style='width: 120px' name="shares" placeholder="# shares" type="number" min="1">
+        </div>
+        <button style='width: 200px' class="form-group btn btn-info" type="submit">Sell</button>
+
+
+        {% if invalid %}
+        <!--TODO: ALERT: insufficient share quantity to sell-->
+        <div class="alert alert-warning" role="alert" > "Insufficient {{symbol}} Shares to Sell." </div>
+        {% endif %}
+    </form>
+{% endblock %}

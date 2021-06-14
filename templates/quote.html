@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quote
+{% endblock %}
+
+{% block main %}
+    <form action="/quote" method="post">
+        <div class="form-group">
+            <input autofocus class="form-control" name="symbol" placeholder="Stock symbol" type="text">
+        </div>
+        <button style='width: 200px' class=" form-group btn btn-primary" type="submit">Look Up</button>
+        {% if invalid %}
+        <div class="alert alert-warning" role="alert" > The input symbol {{symbol}} is invalid </div>
+        {% endif %}
+    </form>
+{% endblock %}
