@@ -3,13 +3,15 @@
 ## Another fun and exciting project: I built a full-stack web app with Bootstrap UI, Flask back-end, and SQLite3 database.
 
 # DEMO
-![image](https://user-images.githubusercontent.com/58123635/121849668-9eca3480-ccb9-11eb-9b1a-4f1040cd3b6e.png)
-![image](https://user-images.githubusercontent.com/58123635/121849797-cfaa6980-ccb9-11eb-806c-073d6730ea0c.png)
-![image](https://user-images.githubusercontent.com/58123635/121849824-d9cc6800-ccb9-11eb-87e2-afe2aa7243bd.png)
-![image](https://user-images.githubusercontent.com/58123635/121849696-abe72380-ccb9-11eb-8bd1-656effeab191.png)
-![image](https://user-images.githubusercontent.com/58123635/121849719-b7d2e580-ccb9-11eb-8f11-3d8a4d92ba29.png)
-![Transaction history](https://user-images.githubusercontent.com/58123635/121849877-e9e44780-ccb9-11eb-85b2-4548e91d2db1.png)
-![orders table](https://user-images.githubusercontent.com/58123635/121850000-1dbf6d00-ccba-11eb-8830-fc6054a27919.png)
+<img src='https://user-images.githubusercontent.com/58123635/121849668-9eca3480-ccb9-11eb-9b1a-4f1040cd3b6e.png' height='300px' />
+<img src='https://user-images.githubusercontent.com/58123635/121849797-cfaa6980-ccb9-11eb-806c-073d6730ea0c.png' height='300px' />
+<img src='https://user-images.githubusercontent.com/58123635/121849824-d9cc6800-ccb9-11eb-87e2-afe2aa7243bd.png' height='300px' />
+<img src='https://user-images.githubusercontent.com/58123635/121849696-abe72380-ccb9-11eb-8bd1-656effeab191.png' height='300px' />
+<img src='https://user-images.githubusercontent.com/58123635/121849719-b7d2e580-ccb9-11eb-8f11-3d8a4d92ba29.png' height='300px' />
+Transaction history
+<img src='https://user-images.githubusercontent.com/58123635/121849877-e9e44780-ccb9-11eb-85b2-4548e91d2db1.png' height='300px' />
+Orders table
+<img src='https://user-images.githubusercontent.com/58123635/121850000-1dbf6d00-ccba-11eb-8830-fc6054a27919.png' height='300px' />
 
 
 # USAGE:
